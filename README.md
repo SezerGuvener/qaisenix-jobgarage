@@ -1,6 +1,3 @@
-# qaisenix-jobgarage
-
-
 # Qaisenix Job Garage
 
 ## English
